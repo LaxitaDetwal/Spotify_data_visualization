@@ -1,7 +1,4 @@
-# spotify_eda.py
-# Spotify Dataset - EDA and Visualization
-# Internship Project for Celebal
-# Author: (Your Name)
+
 
 import pandas as pd
 import seaborn as sns
