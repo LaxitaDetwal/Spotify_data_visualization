@@ -22,4 +22,4 @@ It is part of my internship assignment for Celebal Technologies.
 - Matplotlib
 
 ##  Output
-All plots are saved automatically in the `visuals/` folder after running `spotify.py`.
+All plots are saved automatically in the `visuals` folder after running `spotify.py`.
